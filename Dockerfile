@@ -1,5 +1,5 @@
 # Pull base image 
-From tomcat:8.0-alpine
+FROM tomcat:8.0-alpine
 
 # Maintainer 
 MAINTAINER "Bharath" 
